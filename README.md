@@ -5,7 +5,7 @@ DriodUIBuilder工程目前仅作为 ![](https://raw.githubusercontent.com/JackJi
 # 工程的前身
 DriodUIBuilder工程原始代码来自于开源工程[DriodDraw](https://code.google.com/p/droiddraw/)，感谢原作者。
 
-# 工程当前的意义
+# 当前的意义
 DriodUIBuilder已停止开发，因而功能上已无太多价值，但它或许可给Java Swing爱好者带来GUI界面改进的一些灵感。<br>
 <br>
 DriodUIBuilder的界面美化过程（对比原工程DriodDraw），实际就是一传统而丑陋的界面程序的美化演进案例（希望原作者原谅，DriodUIBuilder的界面虽仍不算完美，但原版DriodDraw确实是又丑又乱）。
@@ -20,13 +20,13 @@ DriodUIBuilder的界面美化过程（对比原工程DriodDraw），实际就是
 ### 美化后的DriodUIBuilder界面
 ![](https://raw.githubusercontent.com/JackJiang2011/DriodUIBuilder/master/preview/preview_20150203.png)
 
-## Contact
+## 联系方式
 * 如有建议等，请邮件至：`jb2011@163.com`；</li>
 * 欢迎加入Java Swing爱好者讨论QQ群：`259448663`  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9971fb1d1845edc87bdec92ad03f329c1d1f280b1cfe73b6d03c13b0f7f8aba1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java Swing技术交流" title="Java Swing技术交流"></a>；
 * 也可联系作者QQ：`413980957`；
 * 你也可前往 [Jack Jiang的微博](http://t.qq.com/jackjiang_is_here/) 进行交流。
 
-## About Author
+## 关于作者
 ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/js2.png)<br>
 计算机科学与技术本科，现业从移动互联网和智能穿戴应用领域；<br>
 > <b>职业生涯：</b>程序员、项目经理、技术总监；<br>
