@@ -34,4 +34,5 @@ DriodUIBuilder的界面美化过程（对比原工程DriodDraw），实际就是
 > <b>实践经验：</b>多年的软件开发、项目管理、团队管理以及创业公司操盘经历，在软件开发体系和团队建设、项目开发和管理、中大型企业应用、移动互联网应用的持续开发/实施/集成/运维和信息化建设等方面拥有较丰富的实践经验，领域知识涉及传统企业桌面应用、企业分布式互联网应用、新一代移动互联网和智能穿戴应用等。
 
 ## 作者的其它工程
-* ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/beautyeye_logo_h.png)
+* ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/beautyeye_logo_h.png) 一款开源Java Swing外观（look and feel）实现，[点击进入](https://github.com/JackJiang2011/beautyeye)。<br>
+* 
