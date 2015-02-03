@@ -21,10 +21,10 @@ DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是
 ![](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/preview/preview_20150203.png)
 
 # 界面美化日记
-以下链接记录了DroidUIBuilder的界面美化过程，[点击查看详细](https://github.com/JackJiang2011/DroidUIBuilder/wiki/DroidUIBuilder%E7%95%8C%E9%9D%A2%E7%BE%8E%E5%8C%96%E6%97%A5%E8%AE%B0)
+:ledger: 以下链接记录了DroidUIBuilder的界面美化过程，[点击查看详细](https://github.com/JackJiang2011/DroidUIBuilder/wiki/DroidUIBuilder%E7%95%8C%E9%9D%A2%E7%BE%8E%E5%8C%96%E6%97%A5%E8%AE%B0)
 
 ## 联系方式
-* 如有建议等，请邮件至：`jb2011@163.com`；</li>
+* 如有建议等，请邮件至：:love_letter: `jb2011@163.com`；</li>
 * 欢迎加入Java Swing爱好者讨论QQ群：`259448663`  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9971fb1d1845edc87bdec92ad03f329c1d1f280b1cfe73b6d03c13b0f7f8aba1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java Swing技术交流" title="Java Swing技术交流"></a>；
 * 也可联系作者QQ：`413980957`；
 * 你也可前往 [Jack Jiang的微博](http://t.qq.com/jackjiang_is_here/) 进行交流。
