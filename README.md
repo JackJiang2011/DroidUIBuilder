@@ -11,13 +11,13 @@ DroidUIBuilder已停止开发，因而功能上已无太多价值，但它或许
 DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是一传统而丑陋的界面程序的美化演进案例（希望原作者原谅，DroidUIBuilder的界面虽仍不算完美，但原版DroidDraw确实是又丑又乱）。
 
 # 下载
-[点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/dist/DroidUIBuilder.jar)
+:paperclip: [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/dist/DroidUIBuilder.jar)
 
 # 界面美化对照
-### :paperclip: 原版DroidDraw界面
+### :sob: 原版DroidDraw界面
 ![](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/screenshots/2012-11-09_1_original.PNG)
 
-### :paperclip: 美化后的DroidUIBuilder界面
+### :grinning: 美化后的DroidUIBuilder界面
 ![](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/preview/preview_20150203.png)
 
 # 界面美化日记
