@@ -35,4 +35,3 @@ DriodUIBuilder的界面美化过程（对比原工程DriodDraw），实际就是
 
 ## 作者的其它工程
 * ![](https://raw.githubusercontent.com/JackJiang2011/beautyeye/master/screenshots/beautyeye_logo_h.png) 一款开源Java Swing外观（look and feel）实现，[点击进入](https://github.com/JackJiang2011/beautyeye)。<br>
-* 
