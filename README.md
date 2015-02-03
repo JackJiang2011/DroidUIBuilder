@@ -8,7 +8,7 @@ DroidUIBuilder工程原始代码来自于开源工程[DroidDraw](https://code.go
 # 当前意义
 DroidUIBuilder已停止开发，因而功能上已无太多价值，但它或许可给Java Swing爱好者带来GUI界面改进的一些灵感。<br>
 <br>
-DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是一传统而丑陋的界面程序的美化演进案例（希望原作者原谅，DroidUIBuilder的界面虽仍不算完美，但原版DroidDraw确实是又丑又乱）。
+DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是一传统而丑陋的界面程序的美化演进案例（希望原作者原谅，DroidUIBuilder的界面虽仍不算完美，但原版DroidDraw确实是又丑又乱 :trollface: ）。
 
 # 下载
 :paperclip: [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/dist/DroidUIBuilder.jar)
