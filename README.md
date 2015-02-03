@@ -14,10 +14,10 @@ DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是
 [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/dist/DroidUIBuilder.jar)
 
 # 界面美化对照
-### 原版DroidDraw界面
+### :paperclip: 原版DroidDraw界面
 ![](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/screenshots/2012-11-09_1_original.PNG)
 
-### 美化后的DroidUIBuilder界面
+### :paperclip: 美化后的DroidUIBuilder界面
 ![](https://raw.githubusercontent.com/JackJiang2011/DroidUIBuilder/master/preview/preview_20150203.png)
 
 # 界面美化日记
