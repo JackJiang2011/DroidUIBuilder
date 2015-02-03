@@ -10,7 +10,7 @@ DriodUIBuilder已停止开发，因而功能上已无太多价值，但它或许
 <br>
 DriodUIBuilder的界面美化过程（对比原工程DriodDraw），实际就是一传统而丑陋的界面程序的美化演进案例（希望原作者原谅，DriodUIBuilder的界面虽仍不算完美，但原版DriodDraw确实是又丑又乱）。
 
-# 可执行程序
+# 最新版本
 [点击下载，完成后双击执行即可](https://raw.githubusercontent.com/JackJiang2011/DriodUIBuilder/master/dist/DriodUIBuilder.jar)
 
 # 界面美化对照
