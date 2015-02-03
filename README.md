@@ -3,7 +3,7 @@ DroidUIBuilder是一个Andriod GUI设计工具，因种种原因已于2012年12�
 DroidUIBuilder工程目前仅作为 **[BeautyEye工程](https://github.com/JackJiang2011/beautyeye)** 的Java Swing界面美化案例而存在。
 
 # 工程前身
-DroidUIBuilder工程原始代码来自于开源工程[DriodDraw](https://code.google.com/p/droiddraw/)，感谢原作者。
+DroidUIBuilder工程原始代码来自于开源工程[DroidDraw](https://code.google.com/p/droiddraw/)，感谢原作者。
 
 # 当前意义
 DroidUIBuilder已停止开发，因而功能上已无太多价值，但它或许可给Java Swing爱好者带来GUI界面改进的一些灵感。<br>
