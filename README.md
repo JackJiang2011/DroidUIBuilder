@@ -25,7 +25,7 @@ DroidUIBuilder的界面美化过程（对比原工程DroidDraw），实际就是
 
 ## 联系方式
 * 如有建议等，请邮件至：:love_letter: `jb2011@163.com`；</li>
-* 欢迎加入Java Swing爱好者讨论QQ群：:penguin: `259448663`  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9971fb1d1845edc87bdec92ad03f329c1d1f280b1cfe73b6d03c13b0f7f8aba1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java Swing技术交流" title="Java Swing技术交流"></a>；
+* 欢迎加入Java Swing爱好者讨论QQ群：`259448663`  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9971fb1d1845edc87bdec92ad03f329c1d1f280b1cfe73b6d03c13b0f7f8aba1"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="Java Swing技术交流" title="Java Swing技术交流"></a>；
 * 也可联系作者QQ：:penguin: `413980957`；
 * 你也可前往 [Jack Jiang的微博](http://t.qq.com/jackjiang_is_here/) 进行交流。
 
