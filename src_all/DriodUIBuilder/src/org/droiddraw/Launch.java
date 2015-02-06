@@ -1,3 +1,14 @@
+/*
+ * Copyright (C) 2015 Jack Jiang(cngeeker.com) The DroidUIBuilder Project. 
+ * All rights reserved.
+ * Project URL:https://github.com/JackJiang2011/DroidUIBuilder
+ * Version 1.0
+ * 
+ * Jack Jiang PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
+ * 
+ * Launch.java at 2015-2-6 16:12:01, original version by Jack Jiang.
+ * You can contact author with jb2011@163.com.
+ */
 package org.droiddraw;
 
 import java.awt.BorderLayout;
@@ -439,7 +450,7 @@ public class Launch implements ApplicationListener//, URLOpener
 		"DriodUIBuilder");
 
 		try {
-			if(Platform.isWindows())
+//			if(Platform.isWindows())
 			{
 				BeautyEyeLNFHelper.frameBorderStyle = 
 					BeautyEyeLNFHelper.FrameBorderStyle.translucencySmallShadow;
@@ -462,8 +473,8 @@ public class Launch implements ApplicationListener//, URLOpener
 //				JDialog.setDefaultLookAndFeelDecorated(true);
 //				UIManager.setLookAndFeel(UIManager.getCrossPlatformLookAndFeelClassName());
 			}
-			else
-				UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+//			else
+//				UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		} catch (InstantiationException e) {

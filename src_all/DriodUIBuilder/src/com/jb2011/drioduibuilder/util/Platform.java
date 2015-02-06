@@ -1,11 +1,12 @@
 /*
- * Copyright (C) 2012 Jack Jiang The BeautyEye Project. 
+ * Copyright (C) 2015 Jack Jiang(cngeeker.com) The DroidUIBuilder Project. 
  * All rights reserved.
- * Project URL:https://code.google.com/p/beautyeye/
- *  
+ * Project URL:https://github.com/JackJiang2011/DroidUIBuilder
+ * Version 1.0
+ * 
  * Jack Jiang PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  * 
- * Platform.java at 2012-10-13 9:02:27, original version by Jack Jiang.
+ * Platform.java at 2015-2-6 16:12:00, original version by Jack Jiang.
  * You can contact author with jb2011@163.com.
  */
 package com.jb2011.drioduibuilder.util;
